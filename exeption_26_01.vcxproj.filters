@@ -4,7 +4,7 @@
     <Filter Include="main">
       <UniqueIdentifier>{03f768c7-f17d-484b-b4d1-ae00ff00c51d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Stack">
+    <Filter Include="calculator">
       <UniqueIdentifier>{d4e86986-a504-47b2-8d7d-5263a0b7bd57}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -12,13 +12,13 @@
     <ClCompile Include="main.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="Stack.cpp">
-      <Filter>Stack</Filter>
+    <ClCompile Include="calculator.cpp">
+      <Filter>calculator</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack.h">
-      <Filter>Stack</Filter>
+    <ClInclude Include="calculator.h">
+      <Filter>calculator</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
